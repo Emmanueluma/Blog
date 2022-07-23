@@ -1,0 +1,53 @@
+body {
+    background-color: #ececec;
+}
+.log_container {
+    position: relative;
+    top: 50px;
+    margin: auto;
+    background-color: #ececec;
+    width: 600px;
+    height: 550px;
+    box-shadow: 10px 10px 5px rgb(173, 173, 173);
+    border: 2px solid #8b8b8b;
+    border-radius: 20px;
+}
+.login_btn {
+    position: relative;
+    display: flex;
+    top: 250px;
+}
+.blog_login {
+    text-align: center;
+    font-size: 40px;
+    font-weight: 600;
+    text-shadow: 2px 2px 5px rgba(206, 206, 206, 0.404);
+}
+.input_login {
+    position: relative;
+    top: 100px;
+    left: 50px;
+    width: 500px;
+    height: 40px;
+    border-radius: 6px;
+    outline: none;
+    border: none;
+}
+#log, #sign {
+    padding: 10px;
+    text-decoration: none;
+    border-radius: 7px;
+    border: 2px solid #d8d8d8;
+}
+#log {
+    position: relative;
+    top: -80px;
+    left: 270px;
+    background-color: #ffffff;
+}
+#sign {
+    position: relative;
+    top: -350px;
+    left: 430px;
+    background-color: #ffffff;
+}
